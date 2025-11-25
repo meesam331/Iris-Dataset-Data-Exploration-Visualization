@@ -1,31 +1,39 @@
 Iris Dataset – Data Exploration & Visualization
-📄 Overview
+📌 Overview
 
-The Iris Dataset is one of the most widely used datasets in machine learning.
-In this task, I performed complete exploratory data analysis (EDA) using pandas, matplotlib, and seaborn.
+This task focuses on exploring the Iris Dataset using Python.
+The goal is to understand the dataset structure, analyze patterns, and visualize relationships between features.
 
-🔧 Steps Completed
+🔧 Steps Performed
 
-Loaded the Iris dataset using sns.load_dataset()
+Loaded dataset using pandas and seaborn
 
-Checked data shape, column names, and first rows using .head()
+Viewed shape, columns, and first few rows using .shape, .columns, .head()
 
-Explored dataset structure using .info() and .describe()
+Generated summary statistics using .info() and .describe()
 
-Created visualizations:
+Visualized the data using:
 
-Scatter plots to show relationships between features
+Scatter Plots
 
-Histograms for distribution
+Histograms
 
-Box plots to identify outliers
+Box Plots
 
 📊 Skills Practiced
 
-Data loading & inspection
+Data loading and cleaning
 
-Descriptive statistics
+Exploratory data analysis (EDA)
 
-Data visualization with seaborn & matplotlib
+Visualization using matplotlib & seaborn
 
-Understanding feature relationships for ML
+Understanding feature relationships
+
+🖥️ Libraries Used
+
+pandas
+
+seaborn
+
+matplotlib
